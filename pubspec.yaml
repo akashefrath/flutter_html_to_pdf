@@ -1,11 +1,11 @@
-name: flutter_html_to_pdf
+name: flutter_html_to_pdf2
 description: Flutter plugin for generating PDF documents from HTML code templates
-version: 0.7.0
-homepage: https://github.com/Afur/flutter_html_to_pdf
+version: 0.0.1
+homepage: https://github.com/akashefrath/flutter_html_to_pdf
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=1.12.0"
+  sdk: '>=3.0.3 <4.0.0'
+  flutter: ">=1.12.0 <2.0.0"
 
 dependencies:
   flutter:
